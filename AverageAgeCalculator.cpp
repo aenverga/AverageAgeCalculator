@@ -41,6 +41,6 @@ negativeAge:
     cout << "Results!\n  Number of people: " << numofPeople << endl;
     cout << "  Average age: " << totalAge / numofPeople << endl;
     cout << "  Total age of everyone: " << totalAge << endl;
-
+    system("pause");
     return 0;
 }

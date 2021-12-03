@@ -1,2 +1,2 @@
 # AverageAgeCalculator
-Simple calculator to find the average age of the inputted ages.
+Simple calculator to find the average age of the inputted ages for C++ practice.
